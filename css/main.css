@@ -64,38 +64,12 @@ h1,h2,h3,h4,h5,h6{
     font-size: 20px;
     font-weight: lighter;
 }
-.navbar .navbar-brand h5 {
+.navbar .navbar-brand img {
     color: var(--main-color);
     font-size: 25px;
     font-weight: 700;
-    margin-top: -15px;
-}
-.navbar .navbar-brand .span-one {
-    position: absolute;
-    width: 49.09px;
-    height: 49.09px;
-    left: 190px;
-    top: 10px;
-    background: rgba(255, 0, 152, 0.33);
-    border-radius: 50%;
-}
-.navbar .navbar-brand .span-two {
-    position: absolute;
-    width: 49.09px;
-    height: 49.09px;
-    left: 180px;
-    top: 10px;
-    background: rgba(255, 0, 152, 0.33);
-    border-radius: 50%;
-}
-.navbar .navbar-brand .span-three {
-    position: absolute;
-    width: 49.09px;
-    height: 49.09px;
-    left: 170px;
-    top: 10px;
-    background: rgba(255, 0, 152, 0.33);
-    border-radius: 50%;
+    height: 60px;
+
 }
 
 .navbar .navbar-brand h3 span:hover {
@@ -106,7 +80,7 @@ h1,h2,h3,h4,h5,h6{
     border-bottom: 2px solid var(--main-color);
 }
 .navbar-light .navbar-nav .nav-link{
-    margin: 5px;
+    margin: 10px;
     font-weight: 500;
     font-size: 16px;
     color:var(--black-color);
