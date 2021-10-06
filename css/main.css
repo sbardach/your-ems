@@ -91,7 +91,6 @@ h1,h2,h3,h4,h5,h6{
 }
 @media (max-width:991px) {
     .collapse{
-        background-color: #090909;
         opacity: .88;
         padding: 10px;
         border-radius: 5px;
@@ -101,7 +100,7 @@ h1,h2,h3,h4,h5,h6{
 /* Hover links of Navbar */
 
 .navbar-light .navbar-toggler-icon {
-    background-image: url(../imgs/navbar-toggler.png);
+    background-image: url(../imgs/icons8-men.png);
 }
 .nav-link{
     position: relative;
